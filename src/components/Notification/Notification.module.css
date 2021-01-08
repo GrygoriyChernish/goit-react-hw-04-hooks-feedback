@@ -1,0 +1,8 @@
+.Message {
+  display: inline-block;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-size: 40px;
+  color: rgb(10, 43, 71);
+}
